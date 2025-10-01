@@ -40,10 +40,15 @@ console.log(seconds);
 
 let number1 = 11;
 let number2 = 4;
-let output = 11/4;
+let output = number1/number2;
 console.log(output);
 
 let kmh = 72
 let ms = 1440
-let speed = 1440/72
+let speed = ms/kmh;
 console.log(speed);
+
+let times = 3
+let second = 60
+let time = second * times;
+console.log(time);
