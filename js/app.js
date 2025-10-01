@@ -57,5 +57,29 @@ let int = 10;
 function myfirstfunction(i) {
   console.log(i);
 }
-
 myfirstfunction(int);
+
+//Hur man får ut en negation
+
+function testing(a,b){
+  c = a+b;
+  return c;
+}
+
+console.log(z);
+let results;
+results = testing(11,-22);
+console.log(results);
+
+
+// Jobb med att räkna ut BMI
+function bmi(w,h){
+  bmi = w/(h * h);
+  return bmi;
+}
+
+let vikt = 70;
+let längd = 1.82
+let resultat =bmi(vikt,längd)
+
+console.log(resultat);
