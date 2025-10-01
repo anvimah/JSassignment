@@ -33,3 +33,12 @@ let x = 5+5;
 let y = 10+10;
 let z = x+y;
 console.log(z);
+
+let seconds = 60
+seconds *= 3
+console.log(seconds);
+
+let number1 = 11;
+let number2 = 4;
+let output = 11/4;
+console.log(output);
