@@ -42,3 +42,8 @@ let number1 = 11;
 let number2 = 4;
 let output = 11/4;
 console.log(output);
+
+let kmh = 72
+let ms = 1440
+let speed = 1440/72
+console.log(speed);
