@@ -25,3 +25,11 @@ const line2 = "and if one green bottle, should accidentally fall, there will be"
 console.log(line2);
 console.log (numberoflessbottles);
 
+let number= 4;
+number -= 2;
+console.log(number);
+
+let x = 5+5;
+let y = 10+10;
+let z = x+y;
+console.log(z);
