@@ -52,3 +52,10 @@ let times = 3
 let second = 60
 let time = second * times;
 console.log(time);
+
+let int = 10;
+function myfirstfunction(i) {
+  console.log(i);
+}
+
+myfirstfunction(int);
